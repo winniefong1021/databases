@@ -1,6 +1,4 @@
 var Friends = {
-
-
   _data: new Set,
 
   items: function() {
@@ -20,5 +18,5 @@ var Friends = {
       callback(true);
     }
   }
-  
+
 };

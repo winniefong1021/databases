@@ -1,8 +1,5 @@
 var db = require('../db');
 
-
-
-
 module.exports = {
   messages: {
     get: function (callback) {

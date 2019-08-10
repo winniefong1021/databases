@@ -1,6 +1,5 @@
 var models = require('../models');
 
-
 module.exports = {
   messages: {
     get: function (req, res) {

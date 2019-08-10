@@ -20,7 +20,6 @@ var Message = db.define('messages', {
   text: Sequelize.STRING,
   roomname: Sequelize.STRING
 });
-  
 
 module.exports = db;
 

@@ -1,6 +1,4 @@
 var Rooms = {
-
-
   _data: new Set,
 
   selected: 'lobby',
@@ -38,5 +36,5 @@ var Rooms = {
       callback(Rooms.items());
     }
   }
-  
+
 };
