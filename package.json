@@ -34,7 +34,7 @@
     "chai": "^3.5.0",
     "cors": "^2.8.5",
     "eslint-config-hackreactor": "git://github.com/reactorcore/eslint-config-hackreactor",
-    "mocha": "^2.4.5",
+    "mocha": "^10.1.0",
     "sequelize": "^3.34.0"
   },
   "babel": {
